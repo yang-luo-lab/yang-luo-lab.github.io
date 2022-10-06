@@ -1,21 +1,18 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
+title: Luo Lab @ Oxford
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /lab-website-template
+baseurl: /yang-luo-lab
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: yang.luo@kennedy.ox.ac.uk
+  github: https://github.com/yang-luo-lab
+  twitter: yluo86
 
 ### advanced settings
 

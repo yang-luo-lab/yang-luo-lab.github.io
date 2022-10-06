@@ -2,8 +2,6 @@
 title: Home
 ---
 
-# Your Lab Slogan
-
 We are researchers at the [Kennedy Institute of Rheumatology, University of Oxford](https://www.kennedy.ox.ac.uk/). We develop statistical methods and computational software to better understand the genetic contribution to immune-mediated traits.
 
 
@@ -13,7 +11,7 @@ We are researchers at the [Kennedy Institute of Rheumatology, University of Oxfo
 
 {% include section.html %}
 
-# Highlights
+# Hightlights
 
 {% capture text %}
 Find out about what we have published and our ongoing research projects.
@@ -37,8 +35,7 @@ Find out about what we have published and our ongoing research projects.
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We believe in open and reproducibility in science. We publish free software, bioinformatic pipelines and datasets.
 
 {%
   include link.html
@@ -54,7 +51,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include feature.html
   image="images/photo.jpg"
   link="resources"
-  title="Our Resources"
+  title="Our Tools"
   flip=true
   text=text
 %}
@@ -80,5 +77,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are a team of researchers that want to push the frontier of data science. We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
+
+
