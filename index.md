@@ -57,7 +57,7 @@ We believe in open and reproducibility in science. We publish free software, bio
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a team of researchers that want to push the frontier of data science. We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
 
 {%
   include link.html
@@ -77,6 +77,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-We are a team of researchers that want to push the frontier of data science. We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
+
 
 
