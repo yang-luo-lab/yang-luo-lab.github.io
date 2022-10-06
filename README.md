@@ -1,20 +1,11 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/greenelab/lab-website-template)
 
-<h1 align="center">Lab Website Template</h1>
+<h1 align="center">Luo Lab @ Oxford</h1>
 <p align="center">
 <img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/favicons/share-thumbnail.jpg?raw=true" alt="Lab Website Template">
 </p>
-An easy-to-use, flexible website template for labs, including automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel and more time running your lab.
+We are researchers at the [Kennedy Institute of Rheumatology, University of Oxford](https://www.kennedy.ox.ac.uk/). We develop statistical methods and computational software to better understand the genetic contribution to immune-mediated traits.
 
-#### 🔔 Still in pre-release/preview. We need testers! 🔔
-
-Please help us out!
-How easy is the template to use?
-How flexible is it?
-How's our documentation?
-
-## Features
 
 - **Automatically generated citations** (using [Manubot](https://manubot.org)) from **just an identifier** (DOI, PubMed ID, and many more)
 - Automatically pull in and display tags from GitHub repositories
