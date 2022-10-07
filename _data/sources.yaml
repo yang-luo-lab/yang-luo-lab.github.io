@@ -10,7 +10,7 @@
 # covldsc
 - id: pmc:PMC8330913
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8330913/bin/ddab130f1.jpg
-  date:2021-08-15
+  date: 2021-08-15
   extra-links:
     - type: source
       link: https://github.com/yang-luo-lab/cov-ldsc
@@ -18,8 +18,8 @@
 
 # flot1
 - id: doi:10.1101/2022.02.07.22270622
- # image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8330913/bin/ddab130f1.jpg
-  date:2022-02-08
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8330913/bin/ddab130f1.jpg
+  date: 2022-02-08
   extra-links:
     - type: data
       link: https://github.com/yang-luo-lab/TB-g2g
@@ -28,11 +28,11 @@
 # Peruvian TB GWAS
 - id: doi:10.1038/s41467-019-11664-1
   image: https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=493290&s=91&r=2&c=2
-  date:2019-08-21
+  date: 2019-08-21
   extra-link:
     - type: data
       text: Summary statistics
       link: https://www.ebi.ac.uk/gwas/downloads/summary-statistics
-    - type: soure
+    - type: source
       text: Reproducing results from manuscript
       link: https://github.com/yang-luo-lab/TB_progression_GWAS
