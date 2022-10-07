@@ -1,8 +1,16 @@
+- id: doi:10.1038/s41588-021-00935-7
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-021-00935-7/MediaObjects/41588_2021_935_Fig1_HTML.png
+  date: 2021-10-5
+  extra-links:
+    - type: source
+      link: https://github.com/yang-luo-lab/HLA-TAPAS
+
+
 - id: doi:10.1016/j.csbj.2020.05.017
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   date: 2020-6-2
   extra-links:
-    - type: manubot
+    - type: source
       link: https://greenelab.github.io/knowledge-graph-review/
   tags:
     - knowledge graphs
