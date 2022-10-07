@@ -7,24 +7,10 @@
       link: https://github.com/yang-luo-lab/HLA-TAPAS
 
 
-- id: PMID: 33987664
+- id: pmid: 33987664
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8330913/bin/ddab130f1.jpg
   date: 2021-08-15
   extra-links:
     - type: source code
       link: https://github.com/yang-luo-lab/cov-ldsc
       text: A method to provide robust hg2 estimates from GWAS summary statistics and in-sample LD estimates in admixed populations.
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
-    - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
-    - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
