@@ -7,8 +7,8 @@ aliases:
   - Esther
   - E Ng
 links:
- # home-page: annechovie.com
- # email: anne@chovie.com
+  home-page: https://www.kennedy.ox.ac.uk/team/esther-ng-1
+  email: esther.ng@ndm.ox.ac.uk
   github: elengss
 ---
 

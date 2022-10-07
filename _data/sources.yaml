@@ -9,7 +9,6 @@
 
 # covldsc
 - id: pmc:PMC8330913
-  date: 2021-01-01
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8330913/bin/ddab130f1.jpg
   extra-links:
     - type: source
