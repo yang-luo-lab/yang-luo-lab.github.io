@@ -9,6 +9,7 @@
 
 - id: PMID: 33987664
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8330913/bin/ddab130f1.jpg
+  date: 2021-08-15
   extra-links:
     - type: source code
       link: https://github.com/yang-luo-lab/cov-ldsc
