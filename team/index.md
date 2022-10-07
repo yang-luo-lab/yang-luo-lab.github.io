@@ -29,7 +29,7 @@ We are creative, hard-wroking, open and fun!
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: senior postdoc"
 %}
 {:.center}
 
