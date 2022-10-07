@@ -2,24 +2,20 @@
 title: Home
 ---
 
-We are researchers at the [Kennedy Institute of Rheumatology, University of Oxford](https://www.kennedy.ox.ac.uk/). We develop statistical methods and computational software to better understand the genetic contribution to immune-mediated traits.
+## We are researchers at the [Kennedy Institute of Rheumatology, University of Oxford](https://www.kennedy.ox.ac.uk/). We develop statistical methods and computational software to better understand the genetic contribution to immune-mediated traits.
 
 
 {% include section.html full=true %}
-
 <!-- {% include banner.html image="images/Oxford_DNA.jpg" %} -->
-
 {% include section.html %}
-
-# Hightlights
-
+<!-- # Hightlights -->
 {% capture text %}
 Find out about what we have published and our ongoing research projects.
 
 {%
   include link.html
   link="research"
-  text="Find out more"
+  text="Find out what we have published"
   icon="fas fa-arrow-right"
   flip=true
 %}
