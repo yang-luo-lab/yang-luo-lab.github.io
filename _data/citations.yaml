@@ -443,21 +443,62 @@
   link: https://doi.org/gm2tsn
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-021-00935-7/MediaObjects/41588_2021_935_Fig1_HTML.png
   extra-links:
-  - type: source code
+  - type: source
     text: A large multi-ancestry HLA imputation reference panel that helps identifying
       causal disease variations.
     link: https://github.com/yang-luo-lab/HLA-TAPAS
-  _cache: 97ec17b86ec7ccee81739534af4c5656561ac2cdb2d4d0d268aa037f3b948571
-- id: doi:10.1093/hmg/ddab130
-  title: OUP accepted manuscript
-  authors: []
-  publisher: Human Molecular Genetics
+  _cache: 63e30a242283c8af646886110c90c422f3a969e128ffebec9ecafa21543b0f9a
+- id: pmc:PMC8330913
+  title: Estimating heritability and its enrichment in tissue-specific gene sets in
+    admixed populations
+  authors:
+  - Yang Luo
+  - Xinyi Li
+  - Xin Wang
+  - Steven Gazal
+  - Josep Maria Mercader
+  - ' 23 and Me Research Team'
+  - ' SIGMA Type 2 Diabetes Consortium'
+  - Benjamin M Neale
+  - Jose C Florez
+  - Adam Auton
+  - Alkes L Price
+  - Hilary K Finucane
+  - Soumya Raychaudhuri
+  publisher: Human molecular genetics
   date: ''
-  link: https://doi.org/gpfs23
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8330913/
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8330913/bin/ddab130f1.jpg
   extra-links:
-  - type: source code
+  - type: source
     link: https://github.com/yang-luo-lab/cov-ldsc
     text: A method to provide robust hg2 estimates from GWAS summary statistics and
       in-sample LD estimates in admixed populations.
-  _cache: ce29ae420c0b99f8c63ccd83af4bee28eb86537d7f5a6de5fab933a3130f0e9b
+  _cache: e0d15215c23f714ebcb2f86bf6ba2e1f9818cba1148f8e4586f09f9f0fbf608b
+- id: doi:10.1101/2022.02.07.22270622
+  title: A <i>FLOT1</i> host regulatory allele is associated with a recently expanded
+    <i>Mtb</i> clade in patients with tuberculosis
+  authors:
+  - Yang Luo
+  - Chuan-Chin Huang
+  - Qingyun Liu
+  - Nicole Howard
+  - Xinyi Li
+  - Junhao Zhu
+  - Tiffany Amariuta
+  - Samira Asgari
+  - Kazuyoshi Ishigaki
+  - Roger Calderon
+  - D. Branch Moody
+  - Leonid Lecca
+  - Sarah M. Fortune
+  - Megan B. Murray
+  - Soumya Raychaudhuri
+  publisher: Cold Spring Harbor Laboratory
+  date: ''
+  link: https://doi.org/gqx44s
+  extra-links:
+  - type: data
+    link: https://github.com/immunogenomics/TB-g2g
+    text: identify host-pathogen interaction at genomic level
+  _cache: 3f96ea4cebe9fc4e316ea5f7eea0f9d49b0186a1ab0be4f6e248f2f62ddb2751
