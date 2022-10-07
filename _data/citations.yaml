@@ -444,10 +444,9 @@
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-021-00935-7/MediaObjects/41588_2021_935_Fig1_HTML.png
   extra-links:
   - type: source
-    text: A large multi-ancestry HLA imputation reference panel that helps identifying
-      causal disease variations.
+    text: Bioinformatic pipeline
     link: https://github.com/yang-luo-lab/HLA-TAPAS
-  _cache: 63e30a242283c8af646886110c90c422f3a969e128ffebec9ecafa21543b0f9a
+  _cache: 8d72a8400ba1dc571f65a0419f872826d6d5b54f13240b38a5c00401556b7069
 - id: pmc:PMC8330913
   title: Estimating heritability and its enrichment in tissue-specific gene sets in
     admixed populations
@@ -472,9 +471,8 @@
   extra-links:
   - type: source
     link: https://github.com/yang-luo-lab/cov-ldsc
-    text: A method to provide robust hg2 estimates from GWAS summary statistics and
-      in-sample LD estimates in admixed populations.
-  _cache: e0d15215c23f714ebcb2f86bf6ba2e1f9818cba1148f8e4586f09f9f0fbf608b
+    text: Source code
+  _cache: 2273604e64c9ac27185617250e87010ca015500ab8399a58bfd3d077d708493d
 - id: doi:10.1101/2022.02.07.22270622
   title: A <i>FLOT1</i> host regulatory allele is associated with a recently expanded
     <i>Mtb</i> clade in patients with tuberculosis
@@ -497,8 +495,46 @@
   publisher: Cold Spring Harbor Laboratory
   date: ''
   link: https://doi.org/gqx44s
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8330913/bin/ddab130f1.jpg
   extra-links:
   - type: data
-    link: https://github.com/immunogenomics/TB-g2g
-    text: identify host-pathogen interaction at genomic level
-  _cache: 3f96ea4cebe9fc4e316ea5f7eea0f9d49b0186a1ab0be4f6e248f2f62ddb2751
+    link: https://github.com/yang-luo-lab/TB-g2g
+    text: Reproducing results from manuscript
+  _cache: e532d2d07efc1d1a83b7e20f322dde5af97ceeffa12c27fcdf64908a26160d2f
+- id: doi:10.1038/s41467-019-11664-1
+  title: Early progression to active tuberculosis is a highly heritable trait driven
+    by 3q23 in Peruvians
+  authors:
+  - Yang Luo
+  - Sara Suliman
+  - Samira Asgari
+  - Tiffany Amariuta
+  - Yuriy Baglaenko
+  - "Marta Mart\xEDnez-Bonet"
+  - Kazuyoshi Ishigaki
+  - Maria Gutierrez-Arcelus
+  - Roger Calderon
+  - Leonid Lecca
+  - "Segundo R. Le\xF3n"
+  - Judith Jimenez
+  - Rosa Yataco
+  - Carmen Contreras
+  - Jerome T. Galea
+  - Mercedes Becerra
+  - Sergey Nejentsev
+  - Peter A. Nigrovic
+  - D. Branch Moody
+  - Megan B. Murray
+  - Soumya Raychaudhuri
+  publisher: Nature Communications
+  date: ''
+  link: https://doi.org/gqx44v
+  image: https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=493290&s=91&r=2&c=2
+  extra-link:
+  - type: data
+    text: Summary statistics
+    link: https://www.ebi.ac.uk/gwas/downloads/summary-statistics
+  - type: source
+    text: Reproducing results from manuscript
+    link: https://github.com/yang-luo-lab/TB_progression_GWAS
+  _cache: bb09460c127cbaafc1f84db73c652d84014c5a767bad0148758c65aad05ad48d
