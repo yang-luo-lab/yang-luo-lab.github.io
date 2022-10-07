@@ -7,7 +7,7 @@ We are researchers at the [Kennedy Institute of Rheumatology, University of Oxfo
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/Oxford_DNA.jpg" %}
+<!-- {% include banner.html image="images/Oxford_DNA.jpg" %} -->
 
 {% include section.html %}
 
