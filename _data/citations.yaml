@@ -465,14 +465,14 @@
   - Hilary K Finucane
   - Soumya Raychaudhuri
   publisher: Human molecular genetics
-  date: ''
+  date: '2021-07-28'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8330913/
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8330913/bin/ddab130f1.jpg
   extra-links:
   - type: source
     link: https://github.com/yang-luo-lab/cov-ldsc
     text: Source code
-  _cache: 146a072cebecc5b7086a94ba54d4a56427c7b191c62e253fe7e0bb924c4847e5
+  _cache: 361b24640ad87d12e64bf08d11abd17c876d4fdc69a084f20b208c5d7c99fa41
 - id: doi:10.1101/2022.02.07.22270622
   title: A <i>FLOT1</i> host regulatory allele is associated with a recently expanded
     <i>Mtb</i> clade in patients with tuberculosis
