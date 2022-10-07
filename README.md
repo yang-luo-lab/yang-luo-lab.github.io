@@ -2,49 +2,12 @@
 
 <h1 align="center">Luo Lab @ Oxford</h1>
 <p align="center">
-<img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/favicons/share-thumbnail.jpg?raw=true" alt="Lab Website Template">
+<!-- <img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/favicons/share-thumbnail.jpg?raw=true" alt="Lab Website Template"> -->
 </p>
 We are researchers at the [Kennedy Institute of Rheumatology, University of Oxford](https://www.kennedy.ox.ac.uk/). We develop statistical methods and computational software to better understand the genetic contribution to immune-mediated traits.
 
+&nbsp;
 
-- **Automatically generated citations** (using [Manubot](https://manubot.org)) from **just an identifier** (DOI, PubMed ID, and many more)
-- Automatically pull in and display tags from GitHub repositories
-- Works and looks good on all major desktop and mobile browsers
-- A suite of pre-built components:
-  - formatted tables and code blocks
-  - social media links with icons
-  - figures with captions
-  - image galleries
-  - multi-size cards with image and text
-  - citations
-  - ...and many more!
-- A **home page**, where you can highlight the most important things that make your lab special
-- A **research page**, with a sorted, searchable list of all your published works
-- A **tools page**, where you can show off your software, datasets, or other useful things
-- A **team** page, compiled automatically from individual members
-- Individual **team member pages** with bios, assignable roles, and social media links
-- A **blog page**, with a sorted, grouped, tagged list of all your posts
 
-## Gallery
+Our group develops statistical and computational methods for understanding the contribution of genetic variations to immune-mediated traits. We focus in particular on the major histocompatibility complex (MHC) region. The MHC region encodes proteins that play a vital role in our immune response. For a vast number of immune-mediated traits, MHC accounts for more genetic heritability than all other genomic variations combined. However, the exact molecular mechanisms behind MHC disease risk are yet unsolved. Knowledge of this would have an impact on subsequent cellular and clinical outcomes. We leverage large biobank data (e.g. UK Biobank and Biobank Japan), gene expression data (e.g. from GTEx), and protein concentrations (e.g. from Omicscience), to understand the precise biological mechanisms through which genetic variation is mediated to modulate risk of immune-mediated traits.
 
-[🖼️ See who else is using the template and what it can do!](https://github.com/greenelab/lab-website-template/wiki/Gallery)
-
-## Documentation
-
-[▶️ Get Started](https://github.com/greenelab/lab-website-template/wiki/Get-Started)
-
-[🗚 Basic Formatting](https://github.com/greenelab/lab-website-template/wiki/Basic-Formatting)
-
-[📝 Basic Editing](https://github.com/greenelab/lab-website-template/wiki/Basic-Editing)
-
-[🤖 Citations](https://github.com/greenelab/lab-website-template/wiki/Citations)
-
-[⚙️ Advanced Editing](https://github.com/greenelab/lab-website-template/wiki/Advanced-Editing)
-
-[🧱 Components](https://github.com/greenelab/lab-website-template/wiki/Components)
-
-[🧠 Background Knowledge](https://github.com/greenelab/lab-website-template/wiki/Background-Knowledge)
-
-[💡 Tips](https://github.com/greenelab/lab-website-template/wiki/Tips)
-
-[❓ Support](https://github.com/greenelab/lab-website-template/wiki/Support)
