@@ -444,9 +444,9 @@
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-021-00935-7/MediaObjects/41588_2021_935_Fig1_HTML.png
   extra-links:
   - type: source
-    text: Bioinformatic pipeline
+    text: source code
     link: https://github.com/yang-luo-lab/HLA-TAPAS
-  _cache: 8d72a8400ba1dc571f65a0419f872826d6d5b54f13240b38a5c00401556b7069
+  _cache: 67518accccb0101912635ae9e783263d7fc4869e39ab0de482dd1c176da36ff3
 - id: pmc:PMC8330913
   title: Estimating heritability and its enrichment in tissue-specific gene sets in
     admixed populations
@@ -472,7 +472,7 @@
   - type: source
     link: https://github.com/yang-luo-lab/cov-ldsc
     text: Source code
-  _cache: 2273604e64c9ac27185617250e87010ca015500ab8399a58bfd3d077d708493d
+  _cache: 146a072cebecc5b7086a94ba54d4a56427c7b191c62e253fe7e0bb924c4847e5
 - id: doi:10.1101/2022.02.07.22270622
   title: A <i>FLOT1</i> host regulatory allele is associated with a recently expanded
     <i>Mtb</i> clade in patients with tuberculosis
@@ -493,14 +493,14 @@
   - Megan B. Murray
   - Soumya Raychaudhuri
   publisher: Cold Spring Harbor Laboratory
-  date: ''
+  date: '2022-02-08'
   link: https://doi.org/gqx44s
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8330913/bin/ddab130f1.jpg
   extra-links:
   - type: data
     link: https://github.com/yang-luo-lab/TB-g2g
     text: Reproducing results from manuscript
-  _cache: e532d2d07efc1d1a83b7e20f322dde5af97ceeffa12c27fcdf64908a26160d2f
+  _cache: d87bafa573c240f08f6163e93dab69befae9969b978e5362082f190232671111
 - id: doi:10.1038/s41467-019-11664-1
   title: Early progression to active tuberculosis is a highly heritable trait driven
     by 3q23 in Peruvians
@@ -527,14 +527,14 @@
   - Megan B. Murray
   - Soumya Raychaudhuri
   publisher: Nature Communications
-  date: ''
+  date: '2019-08-21'
   link: https://doi.org/gqx44v
   image: https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=493290&s=91&r=2&c=2
-  extra-link:
+  extra-links:
   - type: data
     text: Summary statistics
     link: https://www.ebi.ac.uk/gwas/downloads/summary-statistics
   - type: source
     text: Reproducing results from manuscript
     link: https://github.com/yang-luo-lab/TB_progression_GWAS
-  _cache: bb09460c127cbaafc1f84db73c652d84014c5a767bad0148758c65aad05ad48d
+  _cache: 795f534ec7352c6cd7690f5eac1aad619271f35e7eaf55972fa86391c1192496
