@@ -29,23 +29,28 @@ We are creative, hard-wroking, open and fun!
   include list.html
   data="members"
   component="portrait"
-  filters="role: senior postdoc"
+  filters="role:postdoc"
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
-
+<!-- {% include section.html background="images/banner.jpg" dark=true%}
+ -->
 
 
 {% include section.html %}
 
-## Join
-
-#### Post Doctoral Researcher
+## Join us
 
 **Postdoctoral research fellow candidates.** Please send your CV, short summary of main research accomplishments, and type of research you would like to pursue in our lab. We are open to co-mentorship with other labs.
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
+{% include link.html type="email" link="yang.luo@kennedy.ox.ac.uk" text="Apply Now" icon="" style="button" %}
+{:.center}
+
+{% include section.html %}
+
+**DPhil candidates.** Please send your CV to discuss the potential projects in the lab.
+
+{% include link.html type="email" link="yang.luo@kennedy.ox.ac.uk" text="Apply Now" icon="" style="button" %}
 {:.center}
 
 {% include section.html %}
