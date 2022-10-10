@@ -11,7 +11,7 @@ links:
   orcid: 0000-0001-7385-6166
   email: yang.luo@kennedy.ox.ac.uk
   twitter: yluo86
-  homepage: 
+  home-page: https://www.kennedy.ox.ac.uk/team/yang-luo
 ---
 
 Yang is a Kennedy Trust for Rheumatology Research (KTRR) Senior Research Fellow in Data Science. 

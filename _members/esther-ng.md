@@ -1,8 +1,8 @@
 ---
 name: Esther Ng
 image: images/EstherNg.jpeg
-description: Esther is a talented xxx
-role: senior postdoc
+description: Senior Statistical Computational Bioscientist
+role: postdoc
 aliases:
   - Esther
   - E Ng
