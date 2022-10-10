@@ -46,16 +46,7 @@ Located on the [Old Road Campus](https://en.wikipedia.org/wiki/Old_Road_Campus),
 
 <b>Kennedy Institute of Rheumatology</b>
 
-University of Oxford 
-
-Roosevelt Drive
-
-Headington
-
-Oxford
-
-OX3 7FY
-
+Roosevelt Drive, Headington, Oxford, OX3 7FY,
 UK
 
 {:.center}
