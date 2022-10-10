@@ -1,21 +1,451 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1038/s41588-021-00935-7
+  title: A high-resolution HLA reference panel capturing global population diversity
+    enables multi-ancestry fine-mapping in HIV host response
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Yang Luo
+  - Masahiro Kanai
+  - Wanson Choi
+  - Xinyi Li
+  - Saori Sakaue
+  - Kenichi Yamamoto
+  - Kotaro Ogawa
+  - Maria Gutierrez-Arcelus
+  - Peter K. Gregersen
+  - Philip E. Stuart
+  - James T. Elder
+  - Lukas Forer
+  - "Sebastian Sch\xF6nherr"
+  - Christian Fuchsberger
+  - Albert V. Smith
+  - Jacques Fellay
+  - Mary Carrington
+  - David W. Haas
+  - Xiuqing Guo
+  - Nicholette D. Palmer
+  - Yii-Der Ida Chen
+  - Jerome I. Rotter
+  - Kent D. Taylor
+  - Stephen S. Rich
+  - Adolfo Correa
+  - James G. Wilson
+  - Sekar Kathiresan
+  - Michael H. Cho
+  - Andres Metspalu
+  - Tonu Esko
+  - Yukinori Okada
+  - Buhm Han
+  - Namiko Abe
+  - "Gon\xE7alo Abecasis"
+  - Francois Aguet
+  - Christine Albert
+  - Laura Almasy
+  - Alvaro Alonso
+  - Seth Ament
+  - Peter Anderson
+  - Pramod Anugu
+  - Deborah Applebaum-Bowden
+  - Kristin Ardlie
+  - ' Dan Arking'
+  - Donna K. Arnett
+  - Allison Ashley-Koch
+  - Stella Aslibekyan
+  - Tim Assimes
+  - Paul Auer
+  - Dimitrios Avramopoulos
+  - Najib Ayas
+  - Adithya Balasubramanian
+  - John Barnard
+  - Kathleen Barnes
+  - R. Graham Barr
+  - Emily Barron-Casella
+  - Lucas Barwick
+  - Terri Beaty
+  - Gerald Beck
+  - Diane Becker
+  - Lewis Becker
+  - Rebecca Beer
+  - Amber Beitelshees
+  - Emelia Benjamin
+  - Takis Benos
+  - Marcos Bezerra
+  - Larry Bielak
+  - Joshua Bis
+  - Thomas Blackwell
+  - John Blangero
+  - Eric Boerwinkle
+  - Donald W. Bowden
+  - Russell Bowler
+  - Jennifer Brody
+  - Ulrich Broeckel
+  - Jai Broome
+  - Deborah Brown
+  - Karen Bunting
+  - Esteban Burchard
+  - Carlos Bustamante
+  - Erin Buth
+  - Brian Cade
+  - Jonathan Cardwell
+  - Vincent Carey
+  - Julie Carrier
+  - Cara Carty
+  - Richard Casaburi
+  - Juan P. Casas Romero
+  - James Casella
+  - Peter Castaldi
+  - Mark Chaffin
+  - Christy Chang
+  - Yi-Cheng Chang
+  - Daniel Chasman
+  - Sameer Chavan
+  - Bo-Juen Chen
+  - Wei-Min Chen
+  - Seung Hoan Choi
+  - Lee-Ming Chuang
+  - Mina Chung
+  - Ren-Hua Chung
+  - Clary Clish
+  - Suzy Comhair
+  - Matthew Conomos
+  - Elaine Cornell
+  - Carolyn Crandall
+  - James Crapo
+  - L. Adrienne Cupples
+  - Joanne Curran
+  - Jeffrey Curtis
+  - Brian Custer
+  - Coleen Damcott
+  - Dawood Darbar
+  - Sean David
+  - Colleen Davis
+  - Michelle Daya
+  - Mariza de Andrade
+  - Lisa de las Fuentes
+  - Paul de Vries
+  - Michael DeBaun
+  - Ranjan Deka
+  - Dawn DeMeo
+  - Scott Devine
+  - Huyen Dinh
+  - Harsha Doddapaneni
+  - Qing Duan
+  - Shannon Dugan-Perez
+  - Ravi Duggirala
+  - Jon Peter Durda
+  - Susan K. Dutcher
+  - Charles Eaton
+  - Lynette Ekunwe
+  - Adel El Boueiz
+  - Patrick Ellinor
+  - Leslie Emery
+  - Serpil Erzurum
+  - Charles Farber
+  - Jesse Farek
+  - Tasha Fingerlin
+  - Matthew Flickinger
+  - Myriam Fornage
+  - Nora Franceschini
+  - Chris Frazar
+  - Mao Fu
+  - Stephanie M. Fullerton
+  - Lucinda Fulton
+  - Stacey Gabriel
+  - Weiniu Gan
+  - Shanshan Gao
+  - Yan Gao
+  - Margery Gass
+  - Heather Geiger
+  - Bruce Gelb
+  - Mark Geraci
+  - Soren Germer
+  - Robert Gerszten
+  - Auyon Ghosh
+  - Richard Gibbs
+  - Chris Gignoux
+  - Mark Gladwin
+  - David Glahn
+  - Stephanie Gogarten
+  - Da-Wei Gong
+  - Harald Goring
+  - Sharon Graw
+  - Kathryn J. Gray
+  - Daniel Grine
+  - Colin Gross
+  - C. Charles Gu
+  - Yue Guan
+  - Namrata Gupta
+  - David M. Haas
+  - Jeff Haessler
+  - Michael Hall
+  - Yi Han
+  - Patrick Hanly
+  - Daniel Harris
+  - Nicola L. Hawley
+  - Jiang He
+  - Ben Heavner
+  - Susan Heckbert
+  - Ryan Hernandez
+  - David Herrington
+  - Craig Hersh
+  - Bertha Hidalgo
+  - James Hixson
+  - Brian Hobbs
+  - John Hokanson
+  - Elliott Hong
+  - Karin Hoth
+  - Chao Hsiung
+  - Jianhong Hu
+  - Yi-Jen Hung
+  - Haley Huston
+  - Chii Min Hwu
+  - Marguerite Ryan Irvin
+  - Rebecca Jackson
+  - Deepti Jain
+  - Cashell Jaquish
+  - Jill Johnsen
+  - Andrew Johnson
+  - Craig Johnson
+  - Rich Johnston
+  - Kimberly Jones
+  - Hyun Min Kang
+  - Robert Kaplan
+  - Sharon Kardia
+  - Shannon Kelly
+  - Eimear Kenny
+  - Michael Kessler
+  - Alyna Khan
+  - Ziad Khan
+  - Wonji Kim
+  - John Kimoff
+  - Greg Kinney
+  - Barbara Konkle
+  - Charles Kooperberg
+  - Holly Kramer
+  - Christoph Lange
+  - Ethan Lange
+  - Leslie Lange
+  - Cathy Laurie
+  - Cecelia Laurie
+  - Meryl LeBoff
+  - Jiwon Lee
+  - Sandra Lee
+  - Wen-Jane Lee
+  - Jonathon LeFaive
+  - David Levine
+  - ' Dan Levy'
+  - Joshua Lewis
+  - Xiaohui Li
+  - Yun Li
+  - Henry Lin
+  - Honghuang Lin
+  - Xihong Lin
+  - Simin Liu
+  - Yongmei Liu
+  - Yu Liu
+  - Ruth J. F. Loos
+  - Steven Lubitz
+  - Kathryn Lunetta
+  - James Luo
+  - Ulysses Magalang
+  - Michael Mahaney
+  - Barry Make
+  - Ani Manichaikul
+  - Alisa Manning
+  - JoAnn Manson
+  - Lisa Martin
+  - Melissa Marton
+  - Susan Mathai
+  - Rasika Mathias
+  - Susanne May
+  - Patrick McArdle
+  - Merry-Lynn McDonald
+  - Sean McFarland
+  - Stephen McGarvey
+  - Daniel McGoldrick
+  - Caitlin McHugh
+  - Becky McNeil
+  - Hao Mei
+  - James Meigs
+  - Vipin Menon
+  - Luisa Mestroni
+  - Ginger Metcalf
+  - Deborah A. Meyers
+  - Emmanuel Mignot
+  - Julie Mikulla
+  - Nancy Min
+  - Mollie Minear
+  - Ryan L. Minster
+  - Braxton D. Mitchell
+  - Matt Moll
+  - Zeineen Momin
+  - May E. Montasser
+  - Courtney Montgomery
+  - Donna Muzny
+  - Josyf C. Mychaleckyj
+  - Girish Nadkarni
+  - Rakhi Naik
+  - Take Naseri
+  - Pradeep Natarajan
+  - Sergei Nekhai
+  - Sarah C. Nelson
+  - Bonnie Neltner
+  - Caitlin Nessner
+  - Deborah Nickerson
+  - Osuji Nkechinyere
+  - Kari North
+  - "Jeff O\u2019Connell"
+  - "Tim O\u2019Connor"
+  - Heather Ochs-Balcom
+  - Geoffrey Okwuonu
+  - Allan Pack
+  - David T. Paik
+  - James Pankow
+  - George Papanicolaou
+  - Cora Parker
+  - Gina Peloso
+  - Juan Manuel Peralta
+  - Marco Perez
+  - James Perry
+  - Ulrike Peters
+  - Patricia Peyser
+  - Lawrence S. Phillips
+  - Jacob Pleiness
+  - Toni Pollin
+  - Wendy Post
+  - Julia Powers Becker
+  - Meher Preethi Boorgula
+  - Michael Preuss
+  - Bruce Psaty
+  - Pankaj Qasba
+  - Dandi Qiao
+  - Zhaohui Qin
+  - Nicholas Rafaels
+  - Laura Raffield
+  - Mahitha Rajendran
+  - Vasan S. Ramachandran
+  - D. C. Rao
+  - Laura Rasmussen-Torvik
+  - Aakrosh Ratan
+  - Susan Redline
+  - Robert Reed
+  - Catherine Reeves
+  - Elizabeth Regan
+  - Alex Reiner
+  - "Muagututi\u2019a Sefuiva Reupena"
+  - Ken Rice
+  - Rebecca Robillard
+  - Nicolas Robine
+  - ' Dan Roden'
+  - Carolina Roselli
+  - Ingo Ruczinski
+  - Alexi Runnels
+  - Pamela Russell
+  - Sarah Ruuska
+  - Kathleen Ryan
+  - Ester Cerdeira Sabino
+  - Danish Saleheen
+  - Shabnam Salimi
+  - Sejal Salvi
+  - Steven Salzberg
+  - Kevin Sandow
+  - Vijay G. Sankaran
+  - Jireh Santibanez
+  - Karen Schwander
+  - David Schwartz
+  - Frank Sciurba
+  - Christine Seidman
+  - Jonathan Seidman
+  - "Fr\xE9d\xE9ric S\xE9ri\xE8s"
+  - Vivien Sheehan
+  - Stephanie L. Sherman
+  - Amol Shetty
+  - Aniket Shetty
+  - Wayne Hui-Heng Sheu
+  - M. Benjamin Shoemaker
+  - Brian Silver
+  - Edwin Silverman
+  - Robert Skomro
+  - Jennifer Smith
+  - Josh Smith
+  - Nicholas Smith
+  - Tanja Smith
+  - Sylvia Smoller
+  - Beverly Snively
+  - Michael Snyder
+  - Tamar Sofer
+  - Nona Sotoodehnia
+  - Adrienne M. Stilp
+  - Garrett Storm
+  - Elizabeth Streeten
+  - Jessica Lasky Su
+  - Yun Ju Sung
+  - Jody Sylvia
+  - Adam Szpiro
+  - Daniel Taliun
+  - Hua Tang
+  - Margaret Taub
+  - Matthew Taylor
+  - Simeon Taylor
+  - Marilyn Telen
+  - Timothy A. Thornton
+  - Machiko Threlkeld
+  - Lesley Tinker
+  - David Tirschwell
+  - Sarah Tishkoff
+  - Hemant Tiwari
+  - Catherine Tong
+  - Russell Tracy
+  - Michael Tsai
+  - Dhananjay Vaidya
+  - David Van Den Berg
+  - Peter VandeHaar
+  - Scott Vrieze
+  - Tarik Walker
+  - Robert Wallace
+  - Avram Walts
+  - Fei Fei Wang
+  - Heming Wang
+  - Jiongming Wang
+  - Karol Watson
+  - Jennifer Watt
+  - Daniel E. Weeks
+  - Joshua Weinstock
+  - Bruce Weir
+  - Scott T. Weiss
+  - Lu-Chen Weng
+  - Jennifer Wessel
+  - Cristen Willer
+  - Kayleen Williams
+  - L. Keoki Williams
+  - Carla Wilson
+  - James Wilson
+  - Lara Winterkorn
+  - Quenna Wong
+  - Joseph Wu
+  - Huichun Xu
+  - Lisa Yanek
+  - Ivana Yang
+  - Ketian Yu
+  - Seyedeh Maryam Zekavat
+  - Yingze Zhang
+  - Snow Xueyan Zhao
+  - Wei Zhao
+  - Xiaofeng Zhu
+  - Michael Zody
+  - Sebastian Zoellner
+  - Paul J. McLaren
+  - Soumya Raychaudhuri
+  - ' '
+  publisher: Nature Genetics
+  date: '2021-10-05'
+  link: https://doi.org/gm2tsn
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-021-00935-7/MediaObjects/41588_2021_935_Fig1_HTML.png
   extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
+  - type: paper
+    link: https://www.nature.com/articles/s41588-021-00935-7
+  _cache: 2fd535a58a91dbb10c6db555a2b5311e293e598b94876b9e55f68c47234752f8
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
