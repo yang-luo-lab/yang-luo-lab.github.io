@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
+Our lab is part of the [The Kennedy Institute of Rheumatology](https://www.kennedy.ox.ac.uk/), at the school of [Whimsy and Caprice]().
 We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 {%
