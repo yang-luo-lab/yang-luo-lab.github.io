@@ -9,7 +9,7 @@ nav:
 
 We are actively looking for talented people with interests in statistical modelling, transcriptomics, proteomics, genomics and immunology to join the team.
 
-We are creative, hard-wroking, open and fun!
+We are creative, hard-working, open and fun!
 
 {% include section.html %}
 
