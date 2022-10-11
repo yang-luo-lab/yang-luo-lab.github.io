@@ -13,7 +13,7 @@ Find out about what we have published and our ongoing research projects.
 {%
   include link.html
   link="research"
-  text="Find out what we have published"
+  text="Browse our papers"
   icon="fas fa-arrow-right"
   flip=true
 %}
