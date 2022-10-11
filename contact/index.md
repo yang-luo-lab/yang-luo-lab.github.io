@@ -62,7 +62,7 @@ UK
 {%
   include figure.html
   image="https://cdn.britannica.com/03/117103-050-F4C2FC83/view-University-of-Oxford-England-Oxfordshire.jpg"
-  caption="Univeristy of Oxford"
+  caption="University of Oxford"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
