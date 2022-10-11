@@ -2,11 +2,11 @@
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://github.com/yang-luo-lab/HLA-TAPAS
+  description: HLA-TAPAS (HLA-Typing At Protein for Association Studies) is an HLA-focused pipeline that can handle HLA reference panel construction (MakeReference), HLA imputation (SNP2HLA), and HLA association (HLAassoc).
+  repo: yang-luo-lab/HLA-TAPAS
   tags:
-    - resource
+    - bioinformatic pipeline
 
 - title: cov-LDSC
   subtitle: covariate-adjusted LD score regression
