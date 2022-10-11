@@ -1,5 +1,5 @@
 - title: HLA-TAPAS
-  subtitle: a subtitle
+  subtitle: 
   group: featured
   image: images/photo.jpg
   link: https://github.com/yang-luo-lab/HLA-TAPAS
@@ -8,8 +8,8 @@
   tags:
     - bioinformatic pipeline
 
-- title: cov-LDSC
-  subtitle: covariate-adjusted LD score regression
+- title: covariate-adjusted LD score regression
+  subtitle: 
   group: featured
   image: images/cov-LDSC.png
   link: https://github.com/yang-luo-lab/cov-ldsc
