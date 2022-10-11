@@ -22,7 +22,7 @@ Find out about what we have published and our ongoing research projects.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpg"
   link="research"
   title="Our Research"
   text=text
