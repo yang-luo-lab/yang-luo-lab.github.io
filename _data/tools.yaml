@@ -1,7 +1,7 @@
 - title: HLA-TAPAS
   subtitle: 
   group: featured
-  image: images/HLA-TAPAS-pipeline.jpg
+  image: images/HLA-TAPAS-pipeline.png
   link: https://github.com/yang-luo-lab/HLA-TAPAS
   description: HLA-TAPAS (HLA-Typing At Protein for Association Studies) is an HLA-focused pipeline that can handle HLA reference panel construction (MakeReference), HLA imputation (SNP2HLA), and HLA association (HLAassoc).
   repo: yang-luo-lab/HLA-TAPAS
