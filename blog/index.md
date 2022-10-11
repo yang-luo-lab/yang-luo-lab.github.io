@@ -15,7 +15,6 @@ nav:
 
     {% include list.html data="posts" component="post-excerpt" %}
 
-    {% include section.html %}
 %}
 {% endcapture %}
 {% capture col2 %}
