@@ -1,4 +1,4 @@
----
+<!-- ---
 title: News
 nav:
   order: 4
@@ -6,25 +6,8 @@ nav:
 ---
 
 # <i class="fas fa-feather-alt"></i>News
+ -->
 
-{:.center}
-
-{% capture col1 %}
-{%
-    {% include search-info.html %}
-
-    {% include list.html data="posts" component="post-excerpt" %}
-
-%}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="https://cdn.britannica.com/03/117103-050-F4C2FC83/view-University-of-Oxford-England-Oxfordshire.jpg"
-  caption="Univeristy of Oxford"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
 <!-- {% include section.html %}
 
 {% include search-info.html %}
