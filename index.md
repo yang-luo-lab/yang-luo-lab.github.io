@@ -43,7 +43,7 @@ We believe in open and reproducibility in science. We publish free software, bio
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/HLA-TAPAS-pipeline.png"
   link="resources"
   title="Our Tools"
   flip=true
