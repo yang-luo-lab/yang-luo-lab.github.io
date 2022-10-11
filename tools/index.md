@@ -14,8 +14,7 @@ For a full list of our software/database, please see our [Github page](https://g
 
 {% include section.html %}
 
-## Featured
-
+<!-- ## Featured -->
 {% include list.html component="card" data="tools" filters="group: featured" %}
 
 {% include section.html %}
