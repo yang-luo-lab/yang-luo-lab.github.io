@@ -495,12 +495,12 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2022-02-08'
   link: https://doi.org/gqx44s
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8330913/bin/ddab130f1.jpg
+  image: images/g2g_overview.svg
   extra-links:
   - type: data
     link: https://github.com/yang-luo-lab/TB-g2g
     text: Reproducing results from manuscript
-  _cache: d87bafa573c240f08f6163e93dab69befae9969b978e5362082f190232671111
+  _cache: b209da37f31d2d0f3357c574d4fd67dc2ab87df6abdbfedeb1a13163265efd6f
 - id: doi:10.1038/s41467-019-11664-1
   title: Early progression to active tuberculosis is a highly heritable trait driven
     by 3q23 in Peruvians
