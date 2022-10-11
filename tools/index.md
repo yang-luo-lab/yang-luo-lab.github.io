@@ -10,7 +10,7 @@ We aim to develop statistical and computational software for analyzing large-sca
 
 For a full list of our software/database, please see our [Github page](https://github.com/yang-luo-lab).
 
-{% include search-info.html %}
+<!-- {% include search-info.html %} -->
 
 {% include section.html %}
 
@@ -20,6 +20,6 @@ For a full list of our software/database, please see our [Github page](https://g
 
 {% include section.html %}
 
-## More
+<!-- ## More
 
-{% include list.html component="card" data="tools" filters="group: more" style="small" %}
+{% include list.html component="card" data="tools" filters="group: more" style="small" %} -->
