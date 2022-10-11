@@ -17,7 +17,7 @@
 
 # flot1
 - id: doi:10.1101/2022.02.07.22270622
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8330913/bin/ddab130f1.jpg
+  image: images/g2g_overview.svg
   #date:2022-02-08
   extra-links:
     - type: data
