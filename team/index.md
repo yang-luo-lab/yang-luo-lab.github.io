@@ -8,8 +8,9 @@ nav:
 # <i class="fas fa-users"></i>Team
 
 We are actively looking for talented people with interests in statistical modelling, transcriptomics, proteomics, genomics and immunology to join the team.
-
+{% include banner.html image="images/lab_jump.JPG" %}
 We are creative, hard-working, open and fun!
+
 
 {% include section.html %}
 

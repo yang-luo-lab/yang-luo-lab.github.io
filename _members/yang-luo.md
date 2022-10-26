@@ -1,6 +1,6 @@
 ---
 name: Yang Luo
-image: images/YangLuo.png
+image: images/yang_profile.jpg
 description: Group Leader
 role: pi
 aliases:

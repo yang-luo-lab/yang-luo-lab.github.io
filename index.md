@@ -65,7 +65,7 @@ We are a team of researchers that want to push the frontier of data science. We 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/lab_kennedy_2022.JPG"
   link="team"
   title="Our Team"
   text=text
