@@ -45,7 +45,7 @@ We are creative, hard-working, open and fun!
 {% include link.html type="email" link="yang.luo@kennedy.ox.ac.uk" text="Apply Now" icon="" style="button" %}
 {:.center}
 
-{% include banner.html image="images/lab_jump.JPG" scale=0.5 %}
+{% include banner.html image="images/lab_jump.JPG" %}
 
 {% include section.html %}
 
