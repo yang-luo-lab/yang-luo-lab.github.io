@@ -1,6 +1,6 @@
 ---
 name: Jennifer Astley
-image: images/member.jpg
+image: images/JennieAstley.webp
 description: DPhil student
 role: phd
 group: alum
