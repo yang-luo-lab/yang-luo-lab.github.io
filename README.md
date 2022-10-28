@@ -1,8 +1,8 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/greenelab/lab-website-template)
+![GitHub last commit](https://github.com/yang-luo-lab/yang-luo-lab.github.io)
 
 <h1 align="center">Luo Lab @ Oxford</h1>
 <p align="center">
-<!-- <img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/favicons/share-thumbnail.jpg?raw=true" alt="Lab Website Template"> -->
+<!-- <img height="200" src="images/kennedy_building.jpeg" alt="Luo Lab @ Oxford"> -->
 </p>
 We are researchers at the [Kennedy Institute of Rheumatology, University of Oxford](https://www.kennedy.ox.ac.uk/). We develop statistical methods and computational software to better understand the genetic contribution to immune-mediated traits.
 
