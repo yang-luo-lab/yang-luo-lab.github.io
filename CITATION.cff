@@ -2,13 +2,10 @@
 
 cff-version: 1.2.0
 authors:
-  - family-names: "Rubinetti"
-    given-names: "Vincent"
-    orcid: "https://orcid.org/0000-0002-4655-3773"
-  - family-names: "Greene"
-    given-names: "Casey"
-    orcid: "https://orcid.org/0000-0001-8713-9213"
-title: "Lab Website Template"
-version: 0.6.1
-date-released: 2022-06-22
-url: "https://github.com/greenelab/lab-website-template"
+  - family-names: "Luo"
+    given-names: "Yang"
+    orcid: "https://orcid.org/0000-0001-7385-6166"
+title: "Luo Lab @ Oxford"
+version: 1.0
+date-released: 2022-10-28
+url: "https://github.com/yang-luo-lab/"
