@@ -4,8 +4,6 @@
 title: Luo Lab @ Oxford
 #description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 logo: images/Lab_logo.jpg
-width:1024
-height:768
 header: images/Lab_logo.jpg
 footer: images/Lab_logo.jpg
 #baseurl: /yang-luo-lab
@@ -38,7 +36,7 @@ defaults:
       type: "members"
     values:
       layout: member
-   markdown files in /_members
+  # markdown files in /_members
   # - scope:
   #     type: "posts"
   #   values:
