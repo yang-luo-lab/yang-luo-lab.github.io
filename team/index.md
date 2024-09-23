@@ -24,14 +24,16 @@ We are creative, hard-working, open and fun!
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: postdoc"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: postdoc"
+  filters="role: phd"
 %}
+
+
 {:.center}
 
 {% include section.html %}

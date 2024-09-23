@@ -36,7 +36,7 @@ defaults:
       type: "members"
     values:
       layout: member
-  # markdown files in /_members
+  #markdown files in /_members
   # - scope:
   #     type: "posts"
   #   values:

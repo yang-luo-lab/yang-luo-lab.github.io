@@ -1,6 +1,11 @@
 # scHLApers
 - id: doi:10.1038/s41588-023-01586-6
   date: 2023-11-30
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10787945/figure/F1/
+  extra-links:
+    - type: source
+      text: source code
+      link: https://github.com/yang-luo-lab/HLA-TAPAS
 # hla
 - id: doi:10.1038/s41588-021-00935-7
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-021-00935-7/MediaObjects/41588_2021_935_Fig1_HTML.png

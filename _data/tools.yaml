@@ -1,3 +1,13 @@
+- title: HLADiversity
+  subtitle: 
+  group: featured
+  image: images/HLADiversity.png
+  link: https://github.com/yang-luo-lab/HLADiversity
+  description: The goal of HLADiversity is to estimate the distinctiveness of HLA alleles.
+  repo: yang-luo-lab/HLADiversity
+  tags:
+    - bioinformatic pipeline
+
 - title: HLA-TAPAS
   subtitle: 
   group: featured
