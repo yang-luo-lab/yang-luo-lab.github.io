@@ -33,12 +33,12 @@ defaults:
       path: ""
     values:
       layout: default
-  # markdown files in /_members
+  #markdown files in /_members
   - scope:
       type: "members"
     values:
       layout: member
-  # markdown files in /_posts
+   markdown files in /_members
   # - scope:
   #     type: "posts"
   #   values:
