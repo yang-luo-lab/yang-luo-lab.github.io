@@ -2,7 +2,7 @@
 name: Esther Ng
 image: images/EstherNg.jpeg
 description: Senior Statistical Computational Bioscientist
-role: postdoc
+role: postdoc2
 aliases:
   - Esther
   - E Ng

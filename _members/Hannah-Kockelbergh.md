@@ -2,7 +2,7 @@
 name: Hannah Kockelbergh
 image: images/HKprofile.jpg
 description: Research Scientist
-role: postdoc2
+role: postdoc
 aliases:
   - Hannah
   - Hannah K
