@@ -3,12 +3,16 @@
 - id: doi:10.1038/s42003-023-05701-5
   date: 2024-01-5
   image: https://www.nature.com/articles/s42003-023-05701-5/figures/1
-  
+
 # scHLApers
 - id: doi:10.1038/s41588-023-01586-6
-  date: 2023-11-30
+  date: 2023-11-3
   image: https://github.com/immunogenomics/scHLApers/blob/main/images/overview.png
 
+#westAfricaHLA
+- id:doi.org/10.1371/journal.pone.0291437
+  date: 2023-9-28
+  image:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291437
 # hla
 - id: doi:10.1038/s41588-021-00935-7
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-021-00935-7/MediaObjects/41588_2021_935_Fig1_HTML.png
