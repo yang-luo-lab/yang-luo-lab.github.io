@@ -18,3 +18,5 @@ Our group develops statistical and computational methods for understanding the c
 <!-- {% include search-info.html %} -->
 
 {% include list.html data="citations" component="citation" style="rich" %}
+
+{% include list.html data="citations" component="citation" filters="yang-luo: true" %}
