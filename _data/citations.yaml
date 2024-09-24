@@ -1,6 +1,64 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1038/s42003-023-05701-5
+  title: Human leukocyte antigen-DQA1*04:01 and rs2040406 variants are associated
+    with elevated risk of childhood Burkitt lymphoma
+  authors:
+  - Zhiwei Liu
+  - Yang Luo
+  - Samuel Kirimunda
+  - Murielle Verboom
+  - Olusegun O. Onabajo
+  - Mateus H. Gouveia
+  - Martin D. Ogwang
+  - Patrick Kerchan
+  - Steven J. Reynolds
+  - Constance N. Tenge
+  - Pamela A. Were
+  - Robert T. Kuremu
+  - Walter N. Wekesa
+  - Nestory Masalu
+  - Esther Kawira
+  - Tobias Kinyera
+  - Isaac Otim
+  - Ismail D. Legason
+  - Hadijah Nabalende
+  - Herry Dhudha
+  - Leona W. Ayers
+  - Kishor Bhatia
+  - James J. Goedert
+  - Nathan Cole
+  - Wen Luo
+  - Jia Liu
+  - Michelle Manning
+  - Belynda Hicks
+  - Ludmila Prokunina-Olsson
+  - George Chagaluka
+  - W. Thomas Johnston
+  - Nora Mutalima
+  - Eric Borgstein
+  - George N. Liomba
+  - Steve Kamiza
+  - Nyengo Mkandawire
+  - Collins Mitambo
+  - Elizabeth M. Molyneux
+  - Robert Newton
+  - Ann W. Hsing
+  - James E. Mensah
+  - Anthony A. Adjei
+  - Amy Hutchinson
+  - Mary Carrington
+  - Meredith Yeager
+  - Rainer Blasczyk
+  - Stephen J. Chanock
+  - Soumya Raychaudhuri
+  - Sam M. Mbulaiteye
+  publisher: Communications Biology
+  date: '2024-01-05'
+  link: https://doi.org/g4v7zj
+  image: https://www.nature.com/articles/s42003-023-05701-5/figures/1
+  _cache: 17419b0f086aee4d2b3883251af3351ced928e5b16a1bf1c505f2ff0ad8efd3b
 - id: doi:10.1038/s41588-023-01586-6
   title: Mapping the dynamic genetic regulatory architecture of HLA genes at single-cell
     resolution
@@ -114,12 +172,8 @@
   publisher: Nature Genetics
   date: ''
   link: https://doi.org/g4jpk4
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10787945/figure/F1/
-  extra-links:
-  - type: source
-    text: source code
-    link: https://github.com/yang-luo-lab/HLA-TAPAS
-  _cache: de93a5b54927952e2acbb81ddb373eddaca51b0bf47b8368d5ee994eed564398
+  image: https://github.com/immunogenomics/scHLApers/blob/main/images/overview.png
+  _cache: 0adb3a3e38ee1e742d22774219feeafe3a4227c9579dcc6298444753d12d8e62
 - id: doi:10.1038/s41588-021-00935-7
   title: A high-resolution HLA reference panel capturing global population diversity
     enables multi-ancestry fine-mapping in HIV host response
