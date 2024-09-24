@@ -2,14 +2,14 @@
 #eBL
 - id: doi:10.1038/s42003-023-05701-5
   date: 2024-01-5
-  
+
 # scHLApers
 - id: doi:10.1038/s41588-023-01586-6
   date: 2023-11-3
   image: https://github.com/immunogenomics/scHLApers/blob/main/images/overview.png
 
 #westAfricaHLA
-- id:doi.org/10.1371/journal.pone.0291437
+- id: doi.org/10.1371/journal.pone.0291437
   date: 2023-9-28
   image: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291437
 
