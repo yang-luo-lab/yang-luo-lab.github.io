@@ -1,6 +1,125 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1038/s41588-023-01586-6
+  title: Mapping the dynamic genetic regulatory architecture of HLA genes at single-cell
+    resolution
+  authors:
+  - Joyce B. Kang
+  - Amber Z. Shen
+  - Saisriram Gurajala
+  - Aparna Nathan
+  - Laurie Rumker
+  - Vitor R. C. Aguiar
+  - Cristian Valencia
+  - Kaitlyn A. Lagattuta
+  - Fan Zhang
+  - Anna Helena Jonsson
+  - Seyhan Yazar
+  - Jose Alquicira-Hernandez
+  - Hamed Khalili
+  - Ashwin N. Ananthakrishnan
+  - Karthik Jagadeesh
+  - Kushal Dey
+  - ' '
+  - Jennifer Albrecht
+  - William Apruzzese
+  - Nirmal Banda
+  - Jennifer L. Barnas
+  - Joan M. Bathon
+  - Ami Ben-Artzi
+  - Brendan F. Boyce
+  - David L. Boyle
+  - S. Louis Bridges
+  - Vivian P. Bykerk
+  - Debbie Campbell
+  - Hayley L. Carr
+  - Arnold Ceponis
+  - Adam Chicoine
+  - Andrew Cordle
+  - Michelle Curtis
+  - Kevin D. Deane
+  - Edward DiCarlo
+  - Patrick Dunn
+  - Andrew Filer
+  - Gary S. Firestein
+  - Lindsy Forbess
+  - Laura Geraldino-Pardilla
+  - Susan M. Goodman
+  - Ellen M. Gravallese
+  - Peter K. Gregersen
+  - Joel M. Guthridge
+  - V. Michael Holers
+  - Diane Horowitz
+  - Laura B. Hughes
+  - Kazuyoshi Ishigaki
+  - Lionel B. Ivashkiv
+  - Judith A. James
+  - Gregory Keras
+  - Ilya Korsunsky
+  - Amit Lakhanpal
+  - James A. Lederer
+  - Myles Lewis
+  - Zhihan J. Li
+  - Yuhong Li
+  - Katherine P. Liao
+  - Arthur M. Mandelin
+  - Ian Mantel
+  - Kathryne E. Marks
+  - Mark Maybury
+  - Andrew McDavid
+  - Mandy J. McGeachy
+  - Joseph Mears
+  - Nida Meednu
+  - Nghia Millard
+  - Larry W. Moreland
+  - Saba Nayar
+  - Alessandra Nerviani
+  - Dana E. Orange
+  - Harris Perlman
+  - Costantino Pitzalis
+  - Javier Rangel-Moreno
+  - Karim Raza
+  - Yakir Reshef
+  - Christopher Ritchlin
+  - Felice Rivellese
+  - William H. Robinson
+  - Ilfita Sahbudin
+  - Anvita Singaraju
+  - Jennifer A. Seifert
+  - Kamil Slowikowski
+  - Melanie H. Smith
+  - Darren Tabechian
+  - Dagmar Scheel-Toellner
+  - Paul J. Utz
+  - Gerald F. M. Watts
+  - Kevin Wei
+  - Kathryn Weinand
+  - Dana Weisenfeld
+  - Michael H. Weisman
+  - Aaron Wyse
+  - Qian Xiao
+  - Zhu Zhu
+  - Mark J. Daly
+  - Ramnik J. Xavier
+  - Laura T. Donlin
+  - Jennifer H. Anolik
+  - Joseph E. Powell
+  - Deepak A. Rao
+  - Michael B. Brenner
+  - Maria Gutierrez-Arcelus
+  - Yang Luo
+  - Saori Sakaue
+  - Soumya Raychaudhuri
+  publisher: Nature Genetics
+  date: ''
+  link: https://doi.org/g4jpk4
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10787945/figure/F1/
+  extra-links:
+  - type: source
+    text: source code
+    link: https://github.com/yang-luo-lab/HLA-TAPAS
+  _cache: de93a5b54927952e2acbb81ddb373eddaca51b0bf47b8368d5ee994eed564398
 - id: doi:10.1038/s41588-021-00935-7
   title: A high-resolution HLA reference panel capturing global population diversity
     enables multi-ancestry fine-mapping in HIV host response
