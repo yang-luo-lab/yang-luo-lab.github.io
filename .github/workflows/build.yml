@@ -1,0 +1,31 @@
+name: Jekyll Build
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7.8
+
+      - name: Print Ruby & Bundler version
+        run: |
+          ruby -v
+          gem -v
+          bundle -v
+
+      - name: Install dependencies (verbose)
+        run: |
+          bundle config set --local path 'vendor/bundle'
+          bundle install --jobs 4 --retry 3 --verbose
+
+      - name: Build site
+        run: bundle exec jekyll build
