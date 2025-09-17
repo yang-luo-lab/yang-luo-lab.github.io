@@ -7,7 +7,11 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-Our group develops statistical and computational methods for understanding the contribution of genetic variations to immune-mediated traits. We focus in particular on the major histocompatibility complex (MHC) region. The MHC region encodes proteins that play a vital role in our immune response. For a vast number of immune-mediated traits, MHC accounts for more genetic heritability than all other genomic variations combined. However, the exact molecular mechanisms behind MHC disease risk are yet unsolved. Knowledge of this would have an impact on subsequent cellular and clinical outcomes. We leverage large biobank data (e.g. UK Biobank and Biobank Japan), gene expression data (e.g. from GTEx), and protein concentrations (e.g. from Omicscience), to understand the precise biological mechanisms through which genetic variation is mediated to modulate risk of immune-mediated traits.
+We are a research group working to understand how genetics shapes the immune system and its role in human health. Our main focus is the major histocompatibility complex (MHC), a key genomic region that helps our immune system recognize and respond to disease. For many immune-related conditions, variation in the MHC contributes more to risk than all other parts of the genome combined. Yet the biological reasons for this remain unclear.
+
+To address these questions, we use large-scale health resources such as the UK Biobank, China Kadoorie Biobank, and the Mexico City Prospective Study. We also integrate multiple layers of biological data, including gene activity (transcriptomics), protein levels (proteomics), and T cell receptor (TCR) repertoires, to uncover how genetic variation leads to disease.
+
+Our ultimate goal is to connect genetic discoveries with their underlying molecular mechanisms, paving the way for better understanding, prevention, and treatment of immune-related diseases.
 
 ## Selected Publications
 
