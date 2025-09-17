@@ -28,7 +28,9 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-latest
+    # runs-on: ubuntu-latest --- IGNORE --- not consist with current Github Action docs
+    runs-on: ubuntu-22.04
+
     steps:
       - name: Checkout
         uses: actions/checkout@v3
