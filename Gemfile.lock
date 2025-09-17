@@ -329,12 +329,10 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  csv
   github-pages
   jekyll-feed
   jekyll-redirect-from
   jekyll-sitemap
-  logger
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)

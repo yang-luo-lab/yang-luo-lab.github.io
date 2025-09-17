@@ -8,8 +8,8 @@ gem "github-pages", group: :jekyll_plugins
 # gem "jekyll", '~> 4.3.4'
 # gem "webrick", "~> 1.7"
 
-gem 'csv'
-gem 'logger'
+# gem 'csv'
+# gem 'logger'
 
 # plugins
 group :jekyll_plugins do
