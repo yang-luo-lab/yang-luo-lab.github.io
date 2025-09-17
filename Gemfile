@@ -1,8 +1,15 @@
 source "https://rubygems.org"
 
+# Use the GitHub Pages gem to match GitHub’s build environment
+
+gem "github-pages", group: :jekyll_plugins
+
 # jekyll
-gem "jekyll"
-gem "webrick", "~> 1.7"
+# gem "jekyll", '~> 4.3.4'
+# gem "webrick", "~> 1.7"
+
+gem 'csv'
+gem 'logger'
 
 # plugins
 group :jekyll_plugins do
