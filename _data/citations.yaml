@@ -1,15 +1,33 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id:DOI: 10.1126/sciadv.adu3461
-  date: '2025'
+- id: doi:10.1126/sciadv.adu3461
+  title: "Defining the genetic determinants of CD8\n            <sup>+</sup>\n   \
+    \         T cell receptor repertoire in the context of immune checkpoint blockade"
+  authors:
+  - Esther S. Ng
+  - Gusztav Milotay
+  - Orion Tong
+  - Chelsea A. Taylor
+  - Shawn Sun
+  - Guangyi Niu
+  - Robert Watson
+  - Bo Sun
+  - Sophie MacKay
+  - James J. Gilchrist
+  - Martin Little
+  - Benjamin P. Fairfax
+  - Yang Luo
+  publisher: Science Advances
+  date: ''
+  link: https://doi.org/g933hq
   image: images/HLA-TCR.png
   extra-links:
   - type: data
     link: https://github.com/yang-luo-lab/TCR-HLA
     text: Reproducing results from manuscript
-  _cache: 81ed00b1b5dd17047fed682b3b54d9fea2a8e288fc43d376bec059d64d4060c4
-- id: https://doi.org/10.1101/2025.06.30.25330463
+  _cache: 69328e7aade1dc754acd2a771b44afcce4a07b8d92f4612ee01b75009b7d4cc9
+- id: doi:https://doi.org/10.1101/2025.06.30.25330463
   title: Single-cell eQTL mapping identifies disease-specific genetic control of COVID-19
     infection
   authors:
@@ -25,16 +43,16 @@
   - Luke Jostins-Dean
   publisher: medRxiv
   date: ''
-  link: https://www.medrxiv.org/content/10.1101/2025.06.30.25330463v1
+  link: https://doi.org/g933hr
   image: images/combat-eQTL.png
-  _cache: 5e2ceae344b74679ee0e00e1263aacc400d66b623df7047b82b9b4589d552073
-- id: https://doi.org/10.1038/s41467-024-54741-w
+  _cache: cf178de5a39c98d3776371a9c95002013694a07d3ccac288321b5c917e35097d
+- id: pmid:39613754
   title: Paired analysis of host and pathogen genomes identifies determinants of human
-    tuberculosis
+    tuberculosis.
   authors:
   - Yang Luo
   - Chuan-Chin Huang
-  - Nicole C. Howard
+  - Nicole C Howard
   - Xin Wang
   - Qingyun Liu
   - Xinyi Li
@@ -44,22 +62,22 @@
   - Kazuyoshi Ishigaki
   - Roger Calderon
   - Sahadevan Raman
-  - Alexandrea K. Ramnarine
-  - Jacob A. Mayfield
-  - D. Branch Moody
+  - Alexandrea K Ramnarine
+  - Jacob A Mayfield
+  - D Branch Moody
   - Leonid Lecca
-  - Sarah M. Fortune
-  - Megan B. Murray
+  - Sarah M Fortune
+  - Megan B Murray
   - Soumya Raychaudhuri
-  publisher: Nature Communications
+  publisher: Nature communications
   date: ''
-  link: https://www.nature.com/articles/s41467-024-54741-w
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39613754
   image: images/g2g_overview.svg
   extra-links:
   - type: data
     link: https://github.com/yang-luo-lab/TB-g2g
     text: Reproducing results from manuscript
-  _cache: 6630534346d0dc913d0debe4e9f0ad58f6a48894e758366e5ee8510ba994f742
+  _cache: a24ee6ac5c77153ecbd9cf9af202ae41527d114f7a6320073fecaa993bc0b6e1
 - id: doi:10.1038/s42003-023-05701-5
   title: Human leukocyte antigen-DQA1*04:01 and rs2040406 variants are associated
     with elevated risk of childhood Burkitt lymphoma
