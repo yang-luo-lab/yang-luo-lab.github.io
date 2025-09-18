@@ -19,7 +19,7 @@ jobs:
 
       - uses: actions/setup-python@v5
         with:
-            python-version: '3.10'
+            python-version: '3.12'
             
       - name: Print Ruby & Bundler version
         run: |
@@ -33,9 +33,10 @@ jobs:
           bundle install --jobs 4 --retry 3 --verbose
 
       - name: Build site
-        run: bundle exec jekyll build --baseurl ""
+        run: bundle exec jekyll build --baseurl "${{ needs.configure.outputs.base_path }}"
         env:
           JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PAGES_REPO_NWO: ${{ github.repository }}    
+          PAGES_REPO_NWO: ${{ github.repository }} 
+          JEKYLL_ENV: production   
     
  

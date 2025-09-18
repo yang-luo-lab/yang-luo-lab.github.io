@@ -26,14 +26,25 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  # Build job
+  # Step 1: configure pages
+  configure:
+    runs-on: ubuntu-22.04
+    outputs:
+      base_path: ${{ steps.pages.outputs.base_path }}
+    steps:
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v4
+  
+  # Step 2: Build job
   build:
     # runs-on: ubuntu-latest --- IGNORE --- not consist with current Github Action docs
     runs-on: ubuntu-22.04
-
+    needs: configure
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Setup Ruby
         # uses: ruby/setup-ruby@0a29871fe2b0200a17a4497bae54fe5df0d973aa # v1.115.3 --- IGNORE --- old version
         uses: ruby/setup-ruby@v1
@@ -48,7 +59,7 @@ jobs:
           python-version: '3.12'
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v2
+        uses: actions/configure-pages@v4
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
@@ -62,7 +73,7 @@ jobs:
           path: _site
 
 
-  # Deployment job
+  # Step3. Deployment job
   deploy:
     environment:
       name: github-pages
@@ -72,4 +83,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
