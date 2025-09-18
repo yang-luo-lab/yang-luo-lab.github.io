@@ -7,7 +7,8 @@ logo: images/Lab_logo.jpg
 header: images/Lab_logo.jpg
 footer: images/Lab_logo.jpg
 #baseurl: /yang-luo-lab
-
+repository: yang-luo-lab/yang-luo-lab.github.io
+url: https://yang-luo-lab.github.io
 # site social media and other links
 links:
   email: yang.luo@kennedy.ox.ac.uk
