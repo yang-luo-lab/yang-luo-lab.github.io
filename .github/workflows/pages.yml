@@ -33,7 +33,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Setup Ruby
         # uses: ruby/setup-ruby@0a29871fe2b0200a17a4497bae54fe5df0d973aa # v1.115.3 --- IGNORE --- old version
         uses: ruby/setup-ruby@v1
@@ -45,7 +45,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.12'
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v2
@@ -54,12 +54,11 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-      - name: Upload artifact
+      - name: Upload site artifact
         # Automatically uploads an artifact from the './_site' directory by default
         # uses: actions/upload-pages-artifact@v1 # old version- seems to be deprecated
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: artifact
           path: _site
 
 
