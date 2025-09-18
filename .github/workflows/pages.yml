@@ -58,6 +58,9 @@ jobs:
         # Automatically uploads an artifact from the './_site' directory by default
         # uses: actions/upload-pages-artifact@v1 # old version- seems to be deprecated
         uses: actions/upload-artifact@v4
+        with:
+          name: artifact
+          path: _site
 
 
   # Deployment job
