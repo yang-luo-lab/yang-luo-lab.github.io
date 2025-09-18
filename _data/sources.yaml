@@ -1,3 +1,4 @@
+
 # HLA-TCR
 - id:DOI: 10.1126/sciadv.adu3461
   date: 2024-12-06
@@ -6,6 +7,11 @@
     - type: data
       link: https://github.com/yang-luo-lab/TCR-HLA
       text: Reproducing results from manuscript
+
+# COMBAT eQTL
+- id: doi.org/10.1101/2025.06.30.25330463
+  date: 2025-06-30
+  image: images/combat-eQTL.png
 
 # TB genome-to-genome
 - id: https://doi.org/10.1038/s41467-024-54741-w
