@@ -1,6 +1,6 @@
 
 # HLA-TCR
-- id:DOI: 10.1126/sciadv.adu3461
+- id: doi:10.1126/sciadv.adu3461
   date: 2025-07-25
   image: images/HLA-TCR.png
   extra-links:
@@ -9,12 +9,12 @@
       text: Reproducing results from manuscript
 
 # COMBAT eQTL
-- id: https://doi.org/10.1101/2025.06.30.25330463
+- id: doi:https://doi.org/10.1101/2025.06.30.25330463
   date: 2025-06-30
   image: images/combat-eQTL.png
 
 # TB genome-to-genome
-- id: https://doi.org/10.1038/s41467-024-54741-w
+- id: doi:0.1038/s41467-024-54741-w
   date: 2024-11-29
   image: images/g2g_overview.svg
   extra-links:
