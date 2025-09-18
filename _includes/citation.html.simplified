@@ -1,0 +1,42 @@
+<div class="citation" data-style="{{ include.style }}">
+  {% if rich and include.image %}
+    <div class="citation_image">
+      <a href="{{ include.link }}">
+        <img src="{{ include.image | relative_url }}"
+             onerror="this.src='{{ placeholder }}'; this.onerror=null;"
+             alt="Citation thumbnail"
+             loading="lazy">
+      </a>
+    </div>
+  {% endif %}
+
+  <div class="citation_text">
+    <div class="citation_title">
+      <a href="{{ include.link }}">{{ include.title }}</a>
+    </div>
+
+    {% if include.authors %}
+    <div class="citation_authors truncate" tabindex="0">
+      {{ include.authors | join: ", " }}
+    </div>
+    {% endif %}
+
+    <div class="citation_details">
+      {{ include.publisher | default: "[no publisher info]" }}
+      ·
+      {% if include.date %}
+        · {{ include.date | date: "%d %b %Y" }}
+      {% endif %}
+
+    </div>
+
+    {% if rich %}
+      {% include tags.html tags=include.tags repo=include.repo %}
+      <div class="citation_links">
+        {% for extra in include.extra-links %}
+          {% include link.html type=extra.type icon=extra.icon text=extra.text link=extra.link %}
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+</div>

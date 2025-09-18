@@ -27,25 +27,25 @@
     link: https://github.com/yang-luo-lab/TCR-HLA
     text: Reproducing results from manuscript
   _cache: 69328e7aade1dc754acd2a771b44afcce4a07b8d92f4612ee01b75009b7d4cc9
-- id: doi:https://doi.org/10.1101/2025.06.30.25330463
+- id: doi:10.1101/2025.06.30.25330463
   title: Single-cell eQTL mapping identifies disease-specific genetic control of COVID-19
     infection
   authors:
   - Jennifer Astley
   - Andrew Kwok
   - Benjamin Hollis
-  - COvid-19 Multi-omics Blood ATlas (COMBAT) Consortium
+  - ' '
   - Calliope A. Dendrou
   - Steve Sansom
   - Julian C. Knight
-  - Alexander J. Mentzer
+  - Alexander J Mentzer
   - Yang Luo
   - Luke Jostins-Dean
-  publisher: medRxiv
+  publisher: Cold Spring Harbor Laboratory
   date: ''
   link: https://doi.org/g933hr
   image: images/combat-eQTL.png
-  _cache: cf178de5a39c98d3776371a9c95002013694a07d3ccac288321b5c917e35097d
+  _cache: 282fe17d054f6baa10ba85589fb044731534d38ac27e8ac0b9dd45f66432b2a7
 - id: pmid:39613754
   title: Paired analysis of host and pathogen genomes identifies determinants of human
     tuberculosis.
