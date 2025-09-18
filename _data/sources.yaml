@@ -44,11 +44,12 @@
 
 # covldsc
 - id: pmc:PMC8330913
+  date: 2021-05-13
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8330913/bin/ddab130f1.jpg
   extra-links:
     - type: source
       link: https://github.com/yang-luo-lab/cov-ldsc
-      text: Source code
+      text: Source code for running cov-LDSC
 
 
 # Peruvian TB GWAS
