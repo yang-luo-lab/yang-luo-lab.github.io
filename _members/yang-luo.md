@@ -11,6 +11,7 @@ links:
   orcid: 0000-0001-7385-6166
   email: yang.luo@kennedy.ox.ac.uk
   twitter: yluo86
+  bluesky: y-luo.bsky.social
   home-page: https://www.kennedy.ox.ac.uk/team/yang-luo
 ---
 

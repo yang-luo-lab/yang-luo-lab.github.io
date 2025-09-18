@@ -62,11 +62,11 @@ github:
   tooltip: GitHub
   link: https://github.com/$LINK
 
-twitter:
-  icon: fab fa-twitter
-  text: Twitter
-  tooltip: Twitter
-  link: https://twitter.com/$LINK
+bluesky:
+  icon: fab fa-twitter # Using Twitter icon for Bluesky as placeholder
+  text: Bluesky
+  tooltip: Bluesky
+  link: https://bsky.app/profile/$LINK
 
 facebook:
   icon: fab fa-facebook
