@@ -38,16 +38,22 @@ We are creative, hard-working, open and fun!
 
 {% include section.html %}
 
+
 ## Join us
+**We are hiring!**
 
-**Postdoctoral research fellow candidates.** Please send your CV, short summary of main research accomplishments, and type of research you would like to pursue in our lab. We are open to co-mentorship with other labs.
-
-**DPhil candidates.** Please send your CV to discuss the potential projects in the lab.
+- 📌 *Postdoctoral Fellows*: Send your CV, a summary of research accomplishments, and ideas for future research.  
+- 🎓 *DPhil candidates*: Contact us to discuss project opportunities.  
 
 {% include link.html type="email" link="yang.luo@kennedy.ox.ac.uk" text="Apply Now" icon="" style="button" %}
 {:.center}
 
-{% include banner.html image="images/lab_jump.jpg" %}
+{% include banner.html image="images/lab_jump.JPG" %}
 
 {% include section.html %}
 
+## Alumni
+{% include list.html data="members" component="portrait" filters="role: alumni" %}
+{:.center}
+
+{% include section.html %}
