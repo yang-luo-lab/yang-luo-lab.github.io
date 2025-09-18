@@ -14,6 +14,9 @@ on:
   # workflow_dispatch:
   # schedule:
   #   - cron: "0 0 * * 1"
+  permissions:
+    contents: write
+
 
 jobs:
   update_research:
@@ -41,4 +44,5 @@ jobs:
         with:
           file_pattern: "_data/citations.yaml"
           commit_message: "Generate citations"
-          push_options: --force
+          push_options: ""  # Remove --force
+          branch: main
