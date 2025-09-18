@@ -14,7 +14,7 @@
   image: images/combat-eQTL.png
 
 # TB genome-to-genome
-- id: doi:0.1038/s41467-024-54741-w
+- id: pmid:39613754
   date: 2024-11-29
   image: images/g2g_overview.svg
   extra-links:
