@@ -1,6 +1,65 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id:DOI: 10.1126/sciadv.adu3461
+  date: ''
+  image: images/HLA-TCR.png
+  extra-links:
+  - type: data
+    link: https://github.com/yang-luo-lab/TCR-HLA
+    text: Reproducing results from manuscript
+  _cache: 81ed00b1b5dd17047fed682b3b54d9fea2a8e288fc43d376bec059d64d4060c4
+- id: https://doi.org/10.1101/2025.06.30.25330463
+  title: Single-cell eQTL mapping identifies disease-specific genetic control of COVID-19
+    infection
+  authors:
+  - Jennifer Astley
+  - Andrew Kwok
+  - Benjamin Hollis
+  - COvid-19 Multi-omics Blood ATlas (COMBAT) Consortium
+  - Calliope A. Dendrou
+  - Steve Sansom
+  - Julian C. Knight
+  - Alexander J. Mentzer
+  - Yang Luo
+  - Luke Jostins-Dean
+  publisher: medRxiv
+  date: ''
+  link: https://www.medrxiv.org/content/10.1101/2025.06.30.25330463v1
+  image: images/combat-eQTL.png
+  _cache: 5e2ceae344b74679ee0e00e1263aacc400d66b623df7047b82b9b4589d552073
+- id: https://doi.org/10.1038/s41467-024-54741-w
+  title: Paired analysis of host and pathogen genomes identifies determinants of human
+    tuberculosis
+  authors:
+  - Yang Luo
+  - Chuan-Chin Huang
+  - Nicole C. Howard
+  - Xin Wang
+  - Qingyun Liu
+  - Xinyi Li
+  - Junhao Zhu
+  - Tiffany Amariuta
+  - Samira Asgari
+  - Kazuyoshi Ishigaki
+  - Roger Calderon
+  - Sahadevan Raman
+  - Alexandrea K. Ramnarine
+  - Jacob A. Mayfield
+  - D. Branch Moody
+  - Leonid Lecca
+  - Sarah M. Fortune
+  - Megan B. Murray
+  - Soumya Raychaudhuri
+  publisher: Nature Communications
+  date: ''
+  link: https://www.nature.com/articles/s41467-024-54741-w
+  image: images/g2g_overview.svg
+  extra-links:
+  - type: data
+    link: https://github.com/yang-luo-lab/TB-g2g
+    text: Reproducing results from manuscript
+  _cache: 6630534346d0dc913d0debe4e9f0ad58f6a48894e758366e5ee8510ba994f742
 - id: doi:10.1038/s42003-023-05701-5
   title: Human leukocyte antigen-DQA1*04:01 and rs2040406 variants are associated
     with elevated risk of childhood Burkitt lymphoma
@@ -57,8 +116,8 @@
   publisher: Communications Biology
   date: '2024-01-05'
   link: https://doi.org/g4v7zj
-  image: https://www.nature.com/articles/s42003-023-05701-5/figures/1
-  _cache: 17419b0f086aee4d2b3883251af3351ced928e5b16a1bf1c505f2ff0ad8efd3b
+  image: https://github.com/immunogenomics/scHLApers/blob/main/images/overview.png
+  _cache: cb17ebed72dc8e667305716dff7ac18548b5a4c17fcf07bfaf7f7ba6bb697a61
 - id: doi:10.1038/s41588-023-01586-6
   title: Mapping the dynamic genetic regulatory architecture of HLA genes at single-cell
     resolution
@@ -170,10 +229,10 @@
   - Saori Sakaue
   - Soumya Raychaudhuri
   publisher: Nature Genetics
-  date: ''
+  date: '2023-11-03'
   link: https://doi.org/g4jpk4
   image: https://github.com/immunogenomics/scHLApers/blob/main/images/overview.png
-  _cache: 0adb3a3e38ee1e742d22774219feeafe3a4227c9579dcc6298444753d12d8e62
+  _cache: 58d7c9c348f1e6e4da2b57e89d0ab4a67b5ba8d2d3345499b47ada18333a7a07
 - id: doi:10.1038/s41588-021-00935-7
   title: A high-resolution HLA reference panel capturing global population diversity
     enables multi-ancestry fine-mapping in HIV host response
@@ -638,42 +697,14 @@
   - Hilary K Finucane
   - Soumya Raychaudhuri
   publisher: Human molecular genetics
-  date: '2021-07-28'
+  date: ''
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8330913/
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8330913/bin/ddab130f1.jpg
   extra-links:
   - type: source
     link: https://github.com/yang-luo-lab/cov-ldsc
-    text: Source code
-  _cache: 361b24640ad87d12e64bf08d11abd17c876d4fdc69a084f20b208c5d7c99fa41
-- id: doi:10.1101/2022.02.07.22270622
-  title: A <i>FLOT1</i> host regulatory allele is associated with a recently expanded
-    <i>Mtb</i> clade in patients with tuberculosis
-  authors:
-  - Yang Luo
-  - Chuan-Chin Huang
-  - Qingyun Liu
-  - Nicole Howard
-  - Xinyi Li
-  - Junhao Zhu
-  - Tiffany Amariuta
-  - Samira Asgari
-  - Kazuyoshi Ishigaki
-  - Roger Calderon
-  - D. Branch Moody
-  - Leonid Lecca
-  - Sarah M. Fortune
-  - Megan B. Murray
-  - Soumya Raychaudhuri
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-08'
-  link: https://doi.org/gqx44s
-  image: images/g2g_overview.svg
-  extra-links:
-  - type: data
-    link: https://github.com/yang-luo-lab/TB-g2g
-    text: Reproducing results from manuscript
-  _cache: b209da37f31d2d0f3357c574d4fd67dc2ab87df6abdbfedeb1a13163265efd6f
+    text: Source code for running cov-LDSC
+  _cache: dce9a0d9dbcf604677ca2f07bd515bd4b8402f2ada807571d5bf040ca23040b2
 - id: doi:10.1038/s41467-019-11664-1
   title: Early progression to active tuberculosis is a highly heritable trait driven
     by 3q23 in Peruvians
@@ -700,7 +731,7 @@
   - Megan B. Murray
   - Soumya Raychaudhuri
   publisher: Nature Communications
-  date: '2019-08-21'
+  date: ''
   link: https://doi.org/gqx44v
   image: https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=493290&s=91&r=2&c=2
   extra-links:
@@ -710,4 +741,4 @@
   - type: source
     text: Reproducing results from manuscript
     link: https://github.com/yang-luo-lab/TB_progression_GWAS
-  _cache: 795f534ec7352c6cd7690f5eac1aad619271f35e7eaf55972fa86391c1192496
+  _cache: eb0bc941d67b1c35102e64b87e310dd99f53812dc97b689df18d30b7702f6cc2
