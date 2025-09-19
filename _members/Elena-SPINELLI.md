@@ -2,7 +2,7 @@
 name: Elena Spinelli
 image: images/ElenaSpinelli.jpeg
 description: Visiting PhD student
-role: phd
+role: visiting_phd
 group: alum
 aliases:
   - E. Spinelli

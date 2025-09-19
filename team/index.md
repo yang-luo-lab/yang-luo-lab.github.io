@@ -33,6 +33,12 @@ We are creative, hard-working, open and fun!
   filters="role: phd"
 %}
 
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: visiting_phd"
+%}
 
 {:.center}
 
