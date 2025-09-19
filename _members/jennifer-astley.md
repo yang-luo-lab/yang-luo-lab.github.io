@@ -7,6 +7,9 @@ group: alum
 aliases:
   - J. Astley
   - J Astley
+  - Jennie Astley
+  - Jennie
+  - Jennifer Astley
 links:
   email: jennifer.astley@balliol.ox.ac.uk
 ---
