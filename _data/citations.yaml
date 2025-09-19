@@ -46,6 +46,16 @@
   link: https://doi.org/g933hr
   image: images/combat-eQTL.png
   _cache: d9f6b581f3f2e980094d7cdc06733c7acf8238e0a131918b450db773f41e05db
+- id: doi:10.1038/d41586-024-00232-3
+  title: "Smoking\u2019s lasting effect on the immune system"
+  authors:
+  - Yang Luo
+  - Simon Stent
+  publisher: Nature
+  date: '2024-02-14'
+  link: https://doi.org/g935ds
+  image: images/smoke_review.png
+  _cache: 551a1a9c2a095a65725cd117cc073f2288ecc657aa6a15f81c3fff663853ec25
 - id: pmid:39613754
   title: Paired analysis of host and pathogen genomes identifies determinants of human
     tuberculosis.
@@ -249,8 +259,8 @@
   publisher: Nature Genetics
   date: '2023-11-30'
   link: https://doi.org/g4jpk4
-  image: https://github.com/immunogenomics/scHLApers/blob/main/images/overview.png
-  _cache: ce9981bd1e62a07241bae79a29c6f79ceddaf91baf8240ee099704419d651770
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-023-01586-6/MediaObjects/41588_2023_1586_Fig1_HTML.png?as=webp
+  _cache: d261e81c1b1e463a312ac5cb377f9ad1efcf8f566184a5dd8a97600cc7fbcef3
 - id: doi:10.1038/s41588-021-00935-7
   title: A high-resolution HLA reference panel capturing global population diversity
     enables multi-ancestry fine-mapping in HIV host response

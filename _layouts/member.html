@@ -2,6 +2,34 @@
 layout: default
 ---
 
+
+<div class="member-page">
+  <div class="member-photo">
+    {%- include figure.html image=page.image -%}
+  </div>
+
+  <div class="member-info">
+    <h1>{{ page.name | default: page.title }}</h1>
+
+    <p>
+      {%- include role.html type=page.role text=true description=page.description -%}
+    </p>
+
+    <p>
+      {%- for entry in page.links -%}
+        {%- assign key = entry[0] -%}
+        {%- assign value = entry[1] -%}
+        {%- include link.html type=key icon="" text="" tooltip="" link=value -%}
+      {%- endfor -%}
+    </p>
+
+    <div class="member-bio">
+      {{ content }}
+    </div>
+  </div>
+</div>
+
+<!-- 
 <h1>{{ page.name | default: page.title }}</h1>
 
 {%- include figure.html image=page.image -%}
@@ -18,7 +46,7 @@ layout: default
   {%- endfor -%}
 </p>
 
-{{ content }}
+{{ content }} -->
 
 {%- assign aliases = "" | split: ',' -%}
 
