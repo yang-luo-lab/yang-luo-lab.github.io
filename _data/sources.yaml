@@ -39,7 +39,14 @@
     - type: source
       text: source code
       link: https://github.com/yang-luo-lab/HLA-TAPAS
+# HLA-CD4 TCR
+- id:10.1038/s41588-022-01032-z
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-022-01032-z/MediaObjects/41588_2022_1032_Fig1_HTML.png?as=webp
 
+# peruvian height
+- id:10.1038/s41586-020-2302-0
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-020-2302-0/MediaObjects/41586_2020_2302_Fig1_HTML.png?as=webp
+  
 # covldsc
 - id: pmc:PMC8330913
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8330913/bin/ddab130f1.jpg
