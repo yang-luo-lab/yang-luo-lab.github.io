@@ -25,7 +25,7 @@
       {{ include.publisher | default: "[no publisher info]" }}
       ·
       {% if include.date %}
-        · {{ include.date | date: "%d %b %Y" }}
+        · {{ include.date | date: "%Y" }}
       {% endif %}
 
     </div>

@@ -19,14 +19,14 @@
   - Benjamin P. Fairfax
   - Yang Luo
   publisher: Science Advances
-  date: ''
+  date: '2025-07-25'
   link: https://doi.org/g933hq
   image: images/HLA-TCR.png
   extra-links:
   - type: data
     link: https://github.com/yang-luo-lab/TCR-HLA
     text: Reproducing results from manuscript
-  _cache: 69328e7aade1dc754acd2a771b44afcce4a07b8d92f4612ee01b75009b7d4cc9
+  _cache: 34dce190aff35d25d7c28710fbcdad4c19a370b706beb0532e9a034d4997b085
 - id: doi:10.1101/2025.06.30.25330463
   title: Single-cell eQTL mapping identifies disease-specific genetic control of COVID-19
     infection
@@ -42,10 +42,10 @@
   - Yang Luo
   - Luke Jostins-Dean
   publisher: Cold Spring Harbor Laboratory
-  date: ''
+  date: '2025-06-30'
   link: https://doi.org/g933hr
   image: images/combat-eQTL.png
-  _cache: 282fe17d054f6baa10ba85589fb044731534d38ac27e8ac0b9dd45f66432b2a7
+  _cache: d9f6b581f3f2e980094d7cdc06733c7acf8238e0a131918b450db773f41e05db
 - id: pmid:39613754
   title: Paired analysis of host and pathogen genomes identifies determinants of human
     tuberculosis.
@@ -70,14 +70,14 @@
   - Megan B Murray
   - Soumya Raychaudhuri
   publisher: Nature communications
-  date: ''
+  date: '2024-11-29'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39613754
   image: images/g2g_overview.svg
   extra-links:
   - type: data
     link: https://github.com/yang-luo-lab/TB-g2g
     text: Reproducing results from manuscript
-  _cache: a24ee6ac5c77153ecbd9cf9af202ae41527d114f7a6320073fecaa993bc0b6e1
+  _cache: 6f17cb928ac9491976fdf0dcb96ca468d647e471d982716afbe6e439c16fbbce
 - id: doi:10.1038/s42003-023-05701-5
   title: Human leukocyte antigen-DQA1*04:01 and rs2040406 variants are associated
     with elevated risk of childhood Burkitt lymphoma
@@ -134,8 +134,8 @@
   publisher: Communications Biology
   date: '2024-01-05'
   link: https://doi.org/g4v7zj
-  image: https://github.com/immunogenomics/scHLApers/blob/main/images/overview.png
-  _cache: cb17ebed72dc8e667305716dff7ac18548b5a4c17fcf07bfaf7f7ba6bb697a61
+  image: images/eBL_HLA.png
+  _cache: be2543ea27c4d3d3bf0c4af045f6ea4ee2901e115427df21ac26561219cd2a81
 - id: doi:10.1038/s41588-023-01586-6
   title: Mapping the dynamic genetic regulatory architecture of HLA genes at single-cell
     resolution
@@ -247,10 +247,10 @@
   - Saori Sakaue
   - Soumya Raychaudhuri
   publisher: Nature Genetics
-  date: '2023-11-03'
+  date: '2023-11-30'
   link: https://doi.org/g4jpk4
   image: https://github.com/immunogenomics/scHLApers/blob/main/images/overview.png
-  _cache: 58d7c9c348f1e6e4da2b57e89d0ab4a67b5ba8d2d3345499b47ada18333a7a07
+  _cache: ce9981bd1e62a07241bae79a29c6f79ceddaf91baf8240ee099704419d651770
 - id: doi:10.1038/s41588-021-00935-7
   title: A high-resolution HLA reference panel capturing global population diversity
     enables multi-ancestry fine-mapping in HIV host response
@@ -287,6 +287,7 @@
   - Tonu Esko
   - Yukinori Okada
   - Buhm Han
+  - ' '
   - Namiko Abe
   - "Gon\xE7alo Abecasis"
   - Francois Aguet
@@ -687,16 +688,15 @@
   - Sebastian Zoellner
   - Paul J. McLaren
   - Soumya Raychaudhuri
-  - ' '
   publisher: Nature Genetics
-  date: '2021-10-05'
+  date: '2021-10-01'
   link: https://doi.org/gm2tsn
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-021-00935-7/MediaObjects/41588_2021_935_Fig1_HTML.png
   extra-links:
   - type: source
     text: source code
     link: https://github.com/yang-luo-lab/HLA-TAPAS
-  _cache: 67518accccb0101912635ae9e783263d7fc4869e39ab0de482dd1c176da36ff3
+  _cache: 19d31811608941b05811d1da95537812b8d00f9b9330a1292001f7fb242ff9c7
 - id: pmc:PMC8330913
   title: Estimating heritability and its enrichment in tissue-specific gene sets in
     admixed populations
@@ -715,14 +715,14 @@
   - Hilary K Finucane
   - Soumya Raychaudhuri
   publisher: Human molecular genetics
-  date: ''
+  date: '2021-07-28'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8330913/
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8330913/bin/ddab130f1.jpg
   extra-links:
   - type: source
     link: https://github.com/yang-luo-lab/cov-ldsc
     text: Source code for running cov-LDSC
-  _cache: dce9a0d9dbcf604677ca2f07bd515bd4b8402f2ada807571d5bf040ca23040b2
+  _cache: 55e53a5d517186cefafa9876ac60eac90876795b67edf881fadb9aaadaf6b494
 - id: doi:10.1038/s41467-019-11664-1
   title: Early progression to active tuberculosis is a highly heritable trait driven
     by 3q23 in Peruvians
@@ -749,7 +749,7 @@
   - Megan B. Murray
   - Soumya Raychaudhuri
   publisher: Nature Communications
-  date: ''
+  date: '2019-08-21'
   link: https://doi.org/gqx44v
   image: https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=493290&s=91&r=2&c=2
   extra-links:
@@ -759,4 +759,4 @@
   - type: source
     text: Reproducing results from manuscript
     link: https://github.com/yang-luo-lab/TB_progression_GWAS
-  _cache: eb0bc941d67b1c35102e64b87e310dd99f53812dc97b689df18d30b7702f6cc2
+  _cache: 795f534ec7352c6cd7690f5eac1aad619271f35e7eaf55972fa86391c1192496
