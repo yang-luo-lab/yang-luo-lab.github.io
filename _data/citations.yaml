@@ -707,6 +707,54 @@
     text: source code
     link: https://github.com/yang-luo-lab/HLA-TAPAS
   _cache: 19d31811608941b05811d1da95537812b8d00f9b9330a1292001f7fb242ff9c7
+- id: doi:10.1038/s41588-022-01032-z
+  title: HLA autoimmune risk alleles restrict the hypervariable region of T cell receptors
+  authors:
+  - Kazuyoshi Ishigaki
+  - Kaitlyn A. Lagattuta
+  - Yang Luo
+  - Eddie A. James
+  - Jane H. Buckner
+  - Soumya Raychaudhuri
+  publisher: Nature Genetics
+  date: '2022-03-24'
+  link: https://doi.org/gq9hjj
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-022-01032-z/MediaObjects/41588_2022_1032_Fig1_HTML.png?as=webp
+  _cache: 765f612440de7f6fdc3ccf6e9496f40e3943be4efb4386b91074c1ebaa86346f
+- id: doi:10.1038/s41586-020-2302-0
+  title: A positively selected FBN1 missense variant reduces height in Peruvian individuals
+  authors:
+  - Samira Asgari
+  - Yang Luo
+  - Ali Akbari
+  - Gillian M. Belbin
+  - Xinyi Li
+  - Daniel N. Harris
+  - Martin Selig
+  - Eric Bartell
+  - Roger Calderon
+  - Kamil Slowikowski
+  - Carmen Contreras
+  - Rosa Yataco
+  - Jerome T. Galea
+  - Judith Jimenez
+  - Julia M. Coit
+  - "Chandel Farro\xF1ay"
+  - Rosalynn M. Nazarian
+  - "Timothy D. O\u2019Connor"
+  - Harry C. Dietz
+  - Joel N. Hirschhorn
+  - Heinner Guio
+  - Leonid Lecca
+  - Eimear E. Kenny
+  - Esther E. Freeman
+  - Megan B. Murray
+  - Soumya Raychaudhuri
+  publisher: Nature
+  date: '2020-05-13'
+  link: https://doi.org/ggxqj4
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-020-2302-0/MediaObjects/41586_2020_2302_Fig1_HTML.png?as=webp
+  _cache: da98b5d193b76be89fba3294276665daa9a3f093f8d26c583e0365b99bb4dd88
 - id: pmc:PMC8330913
   title: Estimating heritability and its enrichment in tissue-specific gene sets in
     admixed populations
